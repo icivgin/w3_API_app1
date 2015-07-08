@@ -1,0 +1,16 @@
+{
+  "name": "w3_api_app1",
+  "version": "1.0.0",
+  "description": "Node API app practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Civgin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "underscore": "^1.8.3"
+  }
+}
